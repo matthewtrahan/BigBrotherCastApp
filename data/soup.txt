@@ -1,0 +1,68 @@
+<table style="border: 3px solid #99ff99; float:right;clear:right; font-size: 8pt;min-width:250px; -moz-border-radius:10px; -webkit-border-radius:10px; border-collapse:collapse; line-height:2;">
+<tbody><tr>
+<th colspan="2" style="text-align:center; font-size:16px; padding:1px; spacing-top: 0px; spacing-bottom: 0px; background-color:#99ff99;"> <font face="Fjalla One"><b>Marissa Jaret Winokur</b></font>
+</th></tr>
+<tr style="font-size:2.5; vertical-align:middle; border-bottom: 1px solid #666;">
+<th colspan="2" style="text-align:center; padding:0;"> <a class="image image-thumbnail" href="https://vignette.wikia.nocookie.net/bigbrother/images/6/60/CBBUS1_Large_Marissa.jpg/revision/latest?cb=20180208235421"><img alt="CBBUS1 Large Marissa" class="lzy lzyPlcHld " data-image-key="CBBUS1_Large_Marissa.jpg" data-image-name="CBBUS1 Large Marissa.jpg" data-src="https://vignette.wikia.nocookie.net/bigbrother/images/6/60/CBBUS1_Large_Marissa.jpg/revision/latest/scale-to-width-down/250?cb=20180208235421" height="375" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="250"/><noscript><img alt="CBBUS1 Large Marissa" class="" data-image-key="CBBUS1_Large_Marissa.jpg" data-image-name="CBBUS1 Large Marissa.jpg" height="375" src="https://vignette.wikia.nocookie.net/bigbrother/images/6/60/CBBUS1_Large_Marissa.jpg/revision/latest/scale-to-width-down/250?cb=20180208235421" width="250"/></noscript></a>
+</th></tr>
+<tr>
+<th colspan="2" style="text-align:center; padding:1px; border-bottom: 1px solid #666; vertical-align: middle; font-size:normal; font-weight:smaller; spacing-top: 0px; spacing-bottom: 0px; spacing-top: 0px; spacing-bottom: 0px; background-color:#99ff99;"> <b>Houseguest Profile</b>
+</th></tr>
+<tr style="font-size:2.5; vertical-align:middle; border-bottom: 1px solid #666;">
+<td> <b>Born</b> </td><td style="text-align:right;"> February 2, 1973<span style="display:none"> (<span class="bday">1973-02-02</span>)</span><span class="noprint"> (age 45)</span><sup class="reference" id="cite_ref-0"><a href="#cite_note-0">[1]</a></sup>
+</td></tr>
+<tr style="font-size:2.5; vertical-align:middle; border-bottom: 1px solid #666;">
+<td> <b>Hometown</b> </td><td style="text-align:right;"> Toluca Lake, CA
+</td></tr>
+<tr style="font-size:2.5; vertical-align:middle; border-bottom: 1px solid #666;">
+<td> <b>Occupation</b> </td><td style="text-align:right;"> Actress/Director
+</td></tr>
+<tr>
+<th colspan="2" style="text-align:center; padding:1px; border-bottom: 1px solid #666; vertical-align: middle; font-size:normal; font-weight:smaller; spacing-top: 0px; spacing-bottom: 0px; spacing-top: 0px; spacing-bottom: 0px; background-color:#99ff99;"> <b>Season History</b>
+</th></tr>
+<tr style="font-size:2.5; vertical-align:middle; border-bottom: 1px solid #666;">
+<td colspan="2" style="text-align: center; text-align:center; background-color:#CCCCCC; white-space:nowrap;"> <i><b><a href="/wiki/Celebrity_Big_Brother_1_(US)" title="Celebrity Big Brother 1 (US)">Celebrity Big Brother 1 (US)</a></b></i>
+</td></tr>
+<tr style="font-size:2.5; vertical-align:middle; border-bottom: 1px solid #666;">
+<td> <b>Status</b> </td><td style="text-align:right;"> Winner
+</td></tr>
+<tr style="font-size:2.5; vertical-align:middle; border-bottom: 1px solid #666;">
+<td> <b>Place</b> </td><td style="text-align:right;"> 1st
+</td></tr>
+<tr style="font-size:2.5; vertical-align:middle; border-bottom: 1px solid #666;">
+<td> <b>Votes Against</b> </td><td style="text-align:right;"> 2
+</td></tr>
+<tr style="font-size:2.5; vertical-align:middle; border-bottom: 1px solid #666;">
+<td> <b>Votes To Win</b> </td><td style="text-align:right;"> 6
+</td></tr>
+<tr style="font-size:2.5; vertical-align:middle; border-bottom: 1px solid #666;">
+<td> <b>Alliances</b> </td><td style="text-align:right;"> <a href="/wiki/The_Dynasty" title="The Dynasty">The Dynasty</a><br/><a href="/wiki/The_Four" title="The Four">The Four</a><br/><a href="/wiki/The_True_Four" title="The True Four">The True Four</a><br/><a href="/wiki/Kings_%26_Queens" title="Kings &amp; Queens">Kings &amp; Queens</a><br/><a href="/wiki/Roomie_Squad" title="Roomie Squad">Roomie Squad</a>
+</td></tr>
+<tr style="font-size:2.5; vertical-align:middle; border-bottom: 1px solid #666;">
+<td> <b>Loyalties</b> </td><td style="text-align:right;"> <a href="/wiki/Ariadna_Gutierrez" title="Ariadna Gutierrez">Ariadna Gutierrez</a><br/><a href="/wiki/Brandi_Glanville" title="Brandi Glanville">Brandi Glanville</a><br/><a href="/wiki/Ross_Mathews" title="Ross Mathews">Ross Mathews</a>
+</td></tr>
+<tr style="font-size:2.5; vertical-align:middle; border-bottom: 1px solid #666;">
+<td> <b>HoH Wins</b> </td><td style="text-align:right;"> 1 (Day 26)
+</td></tr>
+<tr style="font-size:2.5; vertical-align:middle; border-bottom: 1px solid #666;">
+<td> <b>Times Nominated</b> </td><td style="text-align:right;"> 2 (Days 23 &amp; 24)
+</td></tr>
+<tr style="font-size:2.5; vertical-align:middle; border-bottom: 1px solid #666;">
+<td> <b>Vetos Wins</b> </td><td style="text-align:right;"> 1 (Day 13)
+</td></tr>
+<tr style="font-size:2.5; vertical-align:middle; border-bottom: 1px solid #666;">
+<td> <b>Days</b> </td><td style="text-align:right;"> 26
+</td></tr>
+<tr>
+<th colspan="2" style="text-align:center; padding:1px; border-bottom: 1px solid #666; vertical-align: middle; font-size:normal; font-weight:smaller; spacing-top: 0px; spacing-bottom: 0px; spacing-top: 0px; spacing-bottom: 0px; background-color:#99ff99;"> <b>Social Media</b>
+</th></tr>
+<tr style="font-size:2.5; vertical-align:middle; border-bottom: 1px solid #666;">
+<td> <b>Twitter</b> </td><td style="text-align:right;"> <a class="external text" href="http://www.twitter.com/MarissaJWinokur" rel="nofollow">MarissaJWinokur</a>
+</td></tr>
+<tr style="font-size:2.5; vertical-align:middle; border-bottom: 1px solid #666;">
+<td> <b>Instagram</b> </td><td style="text-align:right;"> <a class="external text" href="http://www.instagram.com/marissajaretwinokur" rel="nofollow">marissajaretwinokur</a>
+</td></tr>
+<tr style="font-size:2.5; vertical-align:middle; border-bottom: 1px solid #666;">
+<td> <b>Facebook</b> </td><td style="text-align:right;"> <a class="external text" href="http://www.facebook.com/marissa.jaret.winokur" rel="nofollow">marissa.jaret.winokur</a>
+</td></tr>
+</tbody></table>
